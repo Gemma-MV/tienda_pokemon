@@ -12,6 +12,7 @@ h1{
     text-align: center;
     color: white;
     font-size: 3em;
+    text-shadow: 2px 2px 1px #bac5cf;
 }
 .Main{
     display: grid;
@@ -80,29 +81,28 @@ button:hover{
     top: 15px;
     right: 7.5%;
 }
-.gray{
+.Cart-gray{
     color: #323944;
     font-size: 1.2em;
 }
-.delete{
+.Cartis-delete{
     margin-right: 10px;
     padding: 2px;
     background: #fd4850;
 }
-.delete img{
+.Cartis-delete img{
     width: 20px;
     cursor: pointer;
 }
-.flex{
+.Cart--flex{
     display: flex;
     align-items: baseline;
 }
-.blue{
-    margin: 50px 0 0 0;
+.Cart-blue{
+    margin-top: 50px;
     color: #5385d4;
-    text-align: center;
 }
-.blue p{
+.Cart-blue p{
     margin-top: 30px;
     color: #323944;
 }

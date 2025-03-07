@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { PokemonProvider, PokemonContext } from './PokemonContext';
 import carrito from "../assets/img/carrito.png";
-import borrar from "../assets/img/borrar.png"
+import borrar from "../assets/img/borrar.png";
 // import useFetch from './UseFetch';
 
 // Aqui creamos una funcion llamada PokemonStore para manejar la tienda de pokemons
